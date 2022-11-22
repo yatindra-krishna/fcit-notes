@@ -1,0 +1,100 @@
+Day #1
+Generation of Computer :-Generation in computer means change in technology a computer is/was being used.
+
+The generation of computer is mainly divided in 5 categories:-
+                  1 - First Generation - Vacuum Tube
+				  2 - Second Generation - Transistor & Magnetic core
+				  3 - Third Generation - Integrated Circuit
+				  4 - Fourth Generation - Micro processsor
+				  5 - Fifth Generation - AI
+				  
+				  1 - First Generation :- 1940-1956,is era/generation mai main electric component vacuum tube tha.
+				                          is era main storage units magnetic tapes aur magnetic drums the.
+			      iss generation main machine language as a programming language use hota tha.iss generation
+				  ke computers ka size baht bada hota tha aur speed bahut km hota tha. is generation main 
+				  input/output ke liye paper tapes aur punch cards ka use kiya jata tha. Ek computer main approx
+				  100 vacuum tubes ka use kiya jata tha.
+				  Example :- UNIVAC1, ENIAC, IBM701, IBM650 etc
+				  
+2 - Second Generation:- 1957-1963, Iss generation main main electric component transistor. Iske
+                        saath hi iss generation main magnetic cores ka bhi use kiya jata tha.
+						Example :- IBM1920,IBM7094,IBM1401 etc
+						
+					-> Characteristics of 2nd generation of computer:-
+					    1 - Smaller in size
+						2 - Change in Circuit
+						3 - Less requirment of Power/Energy
+						4 - Used programming language - Assembly Langugae
+						5 - Speed 
+						6 - Reduced cost
+						
+					-> Disadvantages:-
+					   1 - Need a cooling System
+					   2 - frequent maintenance
+					   3 - used for some specific purpose
+					   4 - Punch card is used for input. 
+
+---------------------------------------------------------------------------------------------------
+Day #4
+3 - Third Generation: - Third generation ke computer second aur first ki tulna main aur advance ho gaya.
+                        1965-1971, Third generation main Integrated Circuits Ka use kiya gaya jinhe hum short 
+						form main IC kahte hai. IC ka use hum log transistor ke place pr karne lage. 
+						IC(Integrated Circuit) humara semiconductor material hota hai jisme bahut se transistors 
+						hote hai.
+						IC was developed by Robert Noyce in 1958. Is generation main puch card ko mouse aur keyboard
+						se replace kr diya gaya.Is generation main computers ki storage capacity large ho gayi. halaki
+						iss generation main bhi magnetic storage ka use kiya jata tha.
+						Is generation main PASCAL, ALGOL-68, COBOL, FORTRAN-II,
+						Computers of this generation:- UNIVAC1108, Honeywell-6000, DEC
+				  
+---------------------------------------------------------------------------------------------------
+Day #4
+4 - Fourth Generation: - 1972 to till the date, iss generation main VLSI (Very large scale integrated circuit) circuit
+                         use hota hai. Isko microprocessors ki tarah bhi reffer kiya jata hai. Isme ek single silicon
+						 ke chip pe hundred IC hote hai. Isak use PC ke development main bahut important role play kiya.
+				         Ye 5000 transistor ko conatine karta hai. aur iska use karke IBM ne sabse pahle Personal
+						 computer ko develop kiya.
+						ex - Apple, CRAY-1 etc
+				  
+5 - Fifth Generation: -	Ye generation AI(Artifical Intelligence) pr dependend hai. Jaha baki ke generation main system ko
+                        run karne ke liye hardware main change karte the wahi iss generation main software main change
+						hota hai. AI computer ko human jaisa thinking capacity provide karata hai jisse ki system bhi
+						human ki tarah soach sakte hai.
+						
+						ex - PARAM 10000, IBM notebooks etc.
+				
+---------------------------------------------------------------------------------------------------
+Day #5
+Classification of computer on the basis of size:-
+    1 - Super Computers
+	2 - Mainframe Computers
+	3 - Mini Computers
+	4 - Micro Computers
+	
+	1 - Super Computer:- Super computer humara sabse powerful computers main se ek hai.
+	                    Iska use complex calculation ke liye kiya jata hai. Ye nanosecond se picosecond tk main ek 
+						calculation kr sakte hai. Ye 40,000 micro computer ke barabar hote hai. Iska use mostly government 
+						agencies karti hai. Hollywood movie industry bhi animation ke liye Super computer ka use karta hai.
+						Eska use ek special purpose ke liye kiya jata hai.
+						Company - HP, IBM, CRAY Inc
+						ex - CRAY X-MP/24, NEC-500, PARAM
+	
+    2 - Mainframe Computers	:- Ye sabse powerful multi user computer hai jo ek saath hundred se bhi jayada users ko handel
+                               karta hai. Ye bhi size main large hota hai. Iska processing super computer ki tulna main slow 
+							   lekin mini aur micro computer ki tulna main fast hota hai. Ye large data ko process karne ke 
+							   liye aur large data ko store karne ke liye banaya gaya hai. Iska use banks , railway, airlines 
+							   jaisi companies karti hai.Isme approx 100 input/output terminals hote hai.
+						ex - IBM1401, ICL 2950/10, CYBER 170 etc	   
+					
+	3 - Mini Computers :- Ye bhi multi user computer hai jo 10 se 100 logo ko handel karta hai. Ye super aur mainframe computer 
+	                      se chota hota hai jiske karan isko mini computer kahte hai. Isko midrange computer ke naam se bhi jante
+						  hai. Iska use small business, universities, bank, organisation karte hai. Ye super computer aur mainframe
+						  computer ki tulna main cheap hota hai. Esko use karna super computer aur mainframe
+						  computer ki tulna main easy hota hai.
+						ex - Prime 9755, VAX 7500 etc  
+						
+    4 - Micro Computers :-Jo computer microprocessors pr based hota hai usko micro computer kahte hai.. YE size main small aur single
+                          user hote hai. Isme data ko input karana ke liye mouse aur keyboard ka use karte hai,  display ke liye monitor 
+						  ka use karte hai store karne ke liye storage devices ka use karte hai.  Iska use school ,office, house shope 
+						  etc pr karte hai.
+						  Ex - laptop, desktop, handheld, PDA(Personal Digital Assistant)
